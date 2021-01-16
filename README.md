@@ -6,7 +6,7 @@ I am Rajat Sachdeva from Delhi, India. Currenty I am pursuing B.Tech. in IT from
 - HTML, CSS, JS
 - Data Structures Algorithms
 
-## Goals for 2020  :dart:
+## Goals for 2021  :dart:
 - [x] Data Structures
 - [ ] Reactjs and Nodejs
 - [ ] Python and Web Projects
